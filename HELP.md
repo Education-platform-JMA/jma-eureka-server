@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'ru.education_platform_jma.jma-eureka-server' is invalid and this project uses 'ru.education_platform_jma.jmaeurekaserver' instead.
-
 # Getting Started
 
 ### Reference Documentation
