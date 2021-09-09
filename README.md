@@ -3,9 +3,10 @@ This repository is a part of application ##Education platform##
 
 ## Rules
 
+* use templates for creating issues (tasks) and pull requests
 * you should create the new tasks in Issue of appropriate project
 * the name of task and branch from master should consist of 3 part:
-  * ERK - shot name of service (repo);
+  * ERK - short name of service (repo);
   * -X: - number in order from 0
   * short description - in 3-5 words, describing main idea (don't use this part in branch name
 Example: 
