@@ -1,4 +1,4 @@
-package ru.education_platform_jma.jmaeurekaserver;
+package ru.jma.jmaeurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
